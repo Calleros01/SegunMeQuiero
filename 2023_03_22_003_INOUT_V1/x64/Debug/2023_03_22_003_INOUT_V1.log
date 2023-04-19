@@ -1,0 +1,4 @@
+﻿  2023_03_22_003_INOUT_V1.cpp
+C:\Users\Universidad Amerike\Desktop\JPCG DEV1\2023_03_22_003_INOUT_V1\2023_03_22_003_INOUT_V1.cpp(17,16): warning C4091: '': se ha omitido a la izquierda de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' cuando no hay ninguna variable declarada
+C:\Users\Universidad Amerike\Desktop\JPCG DEV1\2023_03_22_003_INOUT_V1\2023_03_22_003_INOUT_V1.cpp(16,10): warning C4101: 'preciototal': variable local sin referencia
+  2023_03_22_003_INOUT_V1.vcxproj -> C:\Users\Universidad Amerike\Desktop\JPCG DEV1\2023_03_22_003_INOUT_V1\x64\Debug\2023_03_22_003_INOUT_V1.exe
